@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm VICTOR MAYOWA ADEDAYO</h1>
 <h3 align="center">A passionate Full Stack Developer.</h3>
 
-- 🔭 I’m currently working on [Brainwave]
+- 🔭 I’m currently working on Brainwave
 
 - 🌱 I’m currently learning **Next.js**
 
