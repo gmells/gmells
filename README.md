@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **web development**
 
-- 💬 Ask me about **web development**
+- 💬 Ask me about **web development, software testing**,
 
 - 📫 How to reach me **victormells30@gmail.com**
 
