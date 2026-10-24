@@ -20,6 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gmells&show_icons=true&locale=en&layout=compact" alt="Most used languages" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gmells&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="GitHub stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gmells&show_icons=true&locale=en&include_all_commits=true&count_private=true&cache_seconds=14400" alt="GitHub stats" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com?user=gmells" alt="Contribution streak" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=gmells&date_format=j%20M%5B%20Y%5D" alt="Contribution streak" /></p>
